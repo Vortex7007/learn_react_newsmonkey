@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Peter Kafka",
+            "title": "Radio usage remains surprisingly high because of cars",
+            "description": "The internet is killing TV, and it will get to radio. But not quite yet.",
+            "url": "http://www.businessinsider.com/radio-usage-nielsen-cars-streaming-spotify-2024-4",
+            "urlToImage": "https://i.insider.com/663137b710dfcda40964f9f9?width=1200&format=jpeg",
+            "publishedAt": "2024-04-30T19:25:58Z",
+            "content": "Radio is an old-timey medium that made sense when there was no other way to listen to things. But it makes no sense in the age of Spotify and podcasts and listening to what you want, when you want to… [+2522 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Nora Naughton",
+            "title": "GM and Ford's gas-powered profits are a problem for Tesla's EV slowdown",
+            "description": "Companies like GM and Ford can rely on hybrids and gas-powered cars to get through the EV slowdown. Tesla can't do that.",
+            "url": "http://www.businessinsider.com/tesla-challenges-amid-hybrid-craze-ford-gm-gas-profits-2024-4",
+            "urlToImage": "https://i.insider.com/66312fcf0dfb1341e900d02b?width=1200&format=jpeg",
+            "publishedAt": "2024-04-30T18:42:46Z",
+            "content": "Tesla is finally being forced to reckon with a slowdown in electric-vehicle demand, and CEO Elon Musk's tactics are likely to look different than his peers' in the automotive industry.\r\nBoth Ford and… [+2634 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": null,
+            "title": "Ford patents car that can repossess itself and drive back to showroom",
+            "description": "A new patent allows Ford to build cars that take action if the owner falls behind on payments by playing annoying sounds – or even driving themselves back to the seller",
+            "url": "https://www.newscientist.com/article/2361657-ford-patents-car-that-can-repossess-itself-and-drive-back-to-showroom/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2023/02/28122734/SEI_146189854.jpg",
+            "publishedAt": "2023-02-28T00:00:00Z",
+            "content": "By Matthew Sparkes\r\nFord wants to build cars that repossess themselves, although the technology can’t be used on current models like the Ford Puma\r\nFord Motor Company\r\nFord has been granted a patent … [+2590 chars]"
+        }
+    ]
+}
