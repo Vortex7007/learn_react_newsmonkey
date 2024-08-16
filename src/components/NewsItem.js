@@ -10,7 +10,7 @@ return (
       position: "absolute",
       right: "0"
     }}>
-      <span class="badge rounded-pill bg-danger">{source}
+      <span className="badge rounded-pill bg-danger">{source}
       </span>
     </div>
     <img src={imageUrl} className="card-img-top" alt="..." />
